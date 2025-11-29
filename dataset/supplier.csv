@@ -1,0 +1,13 @@
+supplier_id,supplier_name,delivery_time_days,defect_rate
+S01,Supplier_1,2,0.06
+S02,Supplier_2,3,0.08
+S03,Supplier_3,7,0.03
+S04,Supplier_4,4,0.02
+S05,Supplier_5,12,0.09
+S06,Supplier_6,4,0.07
+S07,Supplier_7,11,0.07
+S08,Supplier_8,8,0.03
+S09,Supplier_9,7,0.07
+S10,Supplier_10,9,0.05
+S11,Supplier_11,14,0.07
+S12,Supplier_12,12,0.08
