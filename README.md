@@ -1,4 +1,4 @@
-# Retail-Inventory-and-Demand-Analysis-Dashboard
+# Retail Inventory Optimization & Demand Forecasting Dashboard
 
 This project analyzes retail inventory, sales performance, demand patterns, and supplier reliability using Python, Pandas, NumPy, and Matplotlib.  
 The aim is to help a retail business understand:
